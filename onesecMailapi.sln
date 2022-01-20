@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "onesecMailapi", "onesecMailapi\onesecMailapi.csproj", "{E6DB43BE-D37D-4776-A85D-139719551E55}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiTester", "ApiTester\ApiTester.csproj", "{28B71677-98D3-417B-A208-565641B36087}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6DB43BE-D37D-4776-A85D-139719551E55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6DB43BE-D37D-4776-A85D-139719551E55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6DB43BE-D37D-4776-A85D-139719551E55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6DB43BE-D37D-4776-A85D-139719551E55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28B71677-98D3-417B-A208-565641B36087}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28B71677-98D3-417B-A208-565641B36087}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28B71677-98D3-417B-A208-565641B36087}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28B71677-98D3-417B-A208-565641B36087}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

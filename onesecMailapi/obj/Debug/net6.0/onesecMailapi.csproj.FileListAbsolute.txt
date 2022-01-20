@@ -1,0 +1,12 @@
+C:\Users\milan\RiderProjects\onesecMailapi\onesecMailapi\bin\Debug\net6.0\onesecMailapi.deps.json
+C:\Users\milan\RiderProjects\onesecMailapi\onesecMailapi\bin\Debug\net6.0\onesecMailapi.dll
+C:\Users\milan\RiderProjects\onesecMailapi\onesecMailapi\bin\Debug\net6.0\ref\onesecMailapi.dll
+C:\Users\milan\RiderProjects\onesecMailapi\onesecMailapi\bin\Debug\net6.0\onesecMailapi.pdb
+C:\Users\milan\RiderProjects\onesecMailapi\onesecMailapi\obj\Debug\net6.0\onesecMailapi.csproj.AssemblyReference.cache
+C:\Users\milan\RiderProjects\onesecMailapi\onesecMailapi\obj\Debug\net6.0\onesecMailapi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\milan\RiderProjects\onesecMailapi\onesecMailapi\obj\Debug\net6.0\onesecMailapi.AssemblyInfoInputs.cache
+C:\Users\milan\RiderProjects\onesecMailapi\onesecMailapi\obj\Debug\net6.0\onesecMailapi.AssemblyInfo.cs
+C:\Users\milan\RiderProjects\onesecMailapi\onesecMailapi\obj\Debug\net6.0\onesecMailapi.csproj.CoreCompileInputs.cache
+C:\Users\milan\RiderProjects\onesecMailapi\onesecMailapi\obj\Debug\net6.0\onesecMailapi.dll
+C:\Users\milan\RiderProjects\onesecMailapi\onesecMailapi\obj\Debug\net6.0\ref\onesecMailapi.dll
+C:\Users\milan\RiderProjects\onesecMailapi\onesecMailapi\obj\Debug\net6.0\onesecMailapi.pdb
